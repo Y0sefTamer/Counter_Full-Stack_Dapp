@@ -66,9 +66,10 @@ The smart contract for this DApp is deployed and verified on the blockchain.
 
 
 
-*(Tip: Add a screenshot or a short GIF of your working DApp here to make the README more engaging!)*
 
-<!-- ![App Screenshot](./public/screenshot.png) -->
+
+[App Screenshot](./public/Screenshot1.png) 
+[App Screenshot](./public/Screenshot2.png) 
 
 
 
